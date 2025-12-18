@@ -144,6 +144,5 @@ Smart-AgriBot/
 
 ## 👤 Author
 **Shlok**  
-Electrical & Electronics Engineering  
-
+ 
 > Built with a focus on real-time systems, scalability, and practical agricultural impact.
