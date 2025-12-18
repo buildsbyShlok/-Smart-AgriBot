@@ -111,7 +111,7 @@ Smart-AgriBot/
 │ ├── components/ # Modular UI components  
 │ ├── app.js  
 │ └── style.css  
-├── screenshots/ # UI & system images  
+├── Hardware Prototype  
 └── README.md
 
 ---
