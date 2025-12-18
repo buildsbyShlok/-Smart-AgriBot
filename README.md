@@ -117,7 +117,10 @@ Smart-AgriBot/
 ---
 
 ## 📸 Screenshots
-_Add dashboard screenshots and system setup images here._
+![Software Dashboard](DashboardPreview/SoftwareDashboard.jpeg "Software Dashboard")
+![Hardware Prototype](HardwarePrototype/Working.jpg)
+
+
 
 ---
 
